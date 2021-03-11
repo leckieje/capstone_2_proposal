@@ -53,15 +53,15 @@
 
 ### Backup Datassets:
 
-*Police Misconduct Settlements
+*Police Misconduct Settlements*
 
-* [FiveThirtyEight](https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/) recently published a story on settlements reached in police misconduct cases. This proposal would try and find other data sources that could be combined with the settlement file from New York City to create a linear regression capable of predicting settlement amounts and ranking features linked with payout amounts. The relevant columns of the data set include claim type, incident date, location (street/ street address), attorney, settlement date, settlement amount. 
+[FiveThirtyEight](https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/) recently published a story on settlements reached in police misconduct cases. This proposal would try and find other data sources that could be combined with the settlement file from New York City to create a linear regression capable of predicting settlement amounts and ranking features linked with payout amounts. The relevant columns of the data set include claim type, incident date, location (street/ street address), attorney, settlement date, settlement amount. 
 
-* More research would need to be done to find a suitable pair dataset to expand the features. Below I suggest using Census data, and that idea interests me here as well. How to connect the settlement data locations and the Census data is another challenge that would need to be overcome. 
+More research would need to be done to find a suitable pair dataset to expand the features. Below I suggest using Census data, and that idea interests me here as well. How to connect the settlement data locations and the Census data is another challenge that would need to be overcome. 
 
 [Police Misconduct Settlements](https://github.com/fivethirtyeight/police-settlements)
 
--
+---
 
 [Medical Malpractice Payments](https://www.npdb.hrsa.gov/resources/publicData.jsp)
 
@@ -69,6 +69,6 @@ The NPDB Public Use Data File contains selected variables from medical malpracti
 
   * 53 columns listed [here](https://www.npdb.hrsa.gov/resources/puf/pufFormatSpecifications.jsp)
 
--
+---
 
-* [Rat Sightings in NYC](https://data.cityofnewyork.us/Social-Services/Rat-Sightings/3q43-55fe)
+[Rat Sightings in NYC](https://data.cityofnewyork.us/Social-Services/Rat-Sightings/3q43-55fe)
