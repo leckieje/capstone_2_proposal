@@ -16,6 +16,8 @@
 ### 2. Electric Car Ownership Churn
 
   * This proposal looks to predict churn in electric car ownership -- i.e. those who bought an electric vehicle only to stop driving that vehicle in favor of a traditional gas powered vehicle -- in California.
+
+    * Framing the problem: fleet turn over, NYT, March 10, 2021, [Electric Cars Are Coming. How Long Until They Rule the Road?](https://www.nytimes.com/interactive/2021/03/10/climate/electric-vehicle-fleet-turnover.html?action=click&module=Top%20Stories&pgtype=Homepage)
   
   * The data would likely come from three datasets:
   
@@ -30,7 +32,7 @@
 
 ### 3. Predicting Test Scores Based on Census Data 
 
-  * This proposal's goal is straight forward: predict school level test scores based on data included in the test score data sets as well as socioeconomic and demographic census data. 
+  * This proposal's goal is to predict school level test scores based on data included in the test score data sets as well as socioeconomic and demographic census data. 
 
   * The approach would be to combine testing data from New York City schools, both public and charter, for math, English, and the Regent's exam with Census data on neighborhood level income, labor and other demographic information to train a random forest capable of predicting which of the four levels of outcomes (not meeting standards, partially meeting standards, meeting standards, meeting standards with distinction) each school falls into. 
 
