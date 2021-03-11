@@ -1,6 +1,6 @@
 # capstone_2_proposal
 
-###1. Protest or Riot?
+### 1. Protest or Riot?
 
   * This proposals looks to use the New York Times API to get articles and article tags about civil unrest events in the United States. I would then combine that data with an API pull from The Armed Conflict Location & Event Data Project of its data from the United States during some time period (at least several years). The goal would be to try and predict based on the features in the ACLED dataset and data gleaned from the Times API how the times would classify the event, as a protest or a riot. 
   
@@ -22,7 +22,7 @@
 [NYC Police Complaints](https://www1.nyc.gov/site/ccrb/policy/data-transparency-initiative-complaints.page#outcome)
 
 
-###3. Predicting Test Scores Based on Census Data 
+### 3. Predicting Test Scores Based on Census Data 
 
 * This proposal's goal is straight forward: predict school level test scores based on data included in the test score data sets as well as socioeconomic and demographic census data. 
 
