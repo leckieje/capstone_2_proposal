@@ -43,3 +43,12 @@
 [2013-2019 ELA Test Results School - SWD/Ethnicity/Gender/Economic Status/ELL](https://data.cityofnewyork.us/Education/2013-2019-English-Language-Arts-ELA-Test-Results-S/gu76-8i7h)
 
 [2013-2019 Math Test Results School - SWD/Ethnicity/Gender/Economic Status/ELL](https://data.cityofnewyork.us/Education/2013-2019-Math-Test-Results-School-SWD-Ethnicity-G/74ah-8ukf)
+
+
+### Backup Database:
+
+[Midical Malpractice Payments](https://www.npdb.hrsa.gov/resources/publicData.jsp)
+
+The NPDB Public Use Data File contains selected variables from medical malpractice payment and adverse licensure, clinical privileges, professional society membership, and Drug Enforcement Administration (DEA) reports (adverse actions) received by the NPDB concerning physicians, dentists, and other licensed health care practitioners. It also includes reports of Medicare and Medicaid exclusion actions taken by the Department of HHS Office of Inspector General.
+
+  * 53 columns listed [here](https://www.npdb.hrsa.gov/resources/puf/pufFormatSpecifications.jsp)
