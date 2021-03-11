@@ -13,9 +13,11 @@
 [The Armed Conflict Location & Event Data Project](https://acleddata.com/data-export-tool/)
 
 
-2. Police Misconduct Settlements
+### 2. Police Misconduct Settlements
 
+* [FiveThirtyEight](https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/) recently published a story on settlements reached in police misconduct cases. This proposal would try and find other data sources that could be combined with the settlment file from New York City to create a linear regrression capable of predicting settlement amounts and ranking features linked with payout amounts. The relevant columns of the data set include claim type, incident date, location, attorney, settlement date, settlement amount. 
 
+* More research would need to be done to find a suitable pair dataset to expand the features. Below I suggest using Census data, and that idea intrests me here as well. How to connect the the settlement data locations and the Census data is another challange that would need to be overcome. 
 
 [Police Misconduct Settlements](https://github.com/fivethirtyeight/police-settlements)
 
