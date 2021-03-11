@@ -21,9 +21,9 @@
   
     * [This dataset](https://data.mendeley.com/datasets/tb9yrptydn/2) of electric passenger cars with their specifications consists of 53 electric cars (each variant of a model – which differs in terms of battery capacity, engine power, etc. – is treated as separate) and 22 variables (25 variables, including make, model and “car name” merging these two previous). Not all the models would be applicable in this case as the dataset was compiled using only cars that could be purchased in Poland as new at authorized dealers. 
 
-  * This study on ["Discontinuance among California's electric vehicle buyers"](https://zenodo.org/record/4586675#.YEomf5NKjlx) that contains the compiled responses of Californian drivers who chose to abandon their electric vehicle, and the reasons behind the decision.
+    * This study on ["Discontinuance among California's electric vehicle buyers"](https://zenodo.org/record/4586675#.YEomf5NKjlx) that contains the compiled responses of Californian drivers who chose to abandon their electric vehicle, and the reasons behind the decision.
 
-  * Lastly, data on electric vehicle infrastructure from the [Alternative Fuels Data Center](https://afdc.energy.gov/stations/#/find/nearest) could be used to develop additional features that influenced the car owner's decisions.
+    * Lastly, data on electric vehicle infrastructure from the [Alternative Fuels Data Center](https://afdc.energy.gov/stations/#/find/nearest) could be used to develop additional features that influenced the car owner's decisions.
 
 * Full disclosure: I just came across the first two datasets in a newsletter this morning, so more research needs to be done to determine an appropriate way to merge these databases, iif possible. I did briefly look at the dataset of Polish car models, and many, although not all, are from manufacturers also common in California (BMW, Hyundai, Tesla, etc.).
 
