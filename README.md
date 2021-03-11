@@ -43,6 +43,3 @@
 [2013-2019 ELA Test Results School - SWD/Ethnicity/Gender/Economic Status/ELL](https://data.cityofnewyork.us/Education/2013-2019-English-Language-Arts-ELA-Test-Results-S/gu76-8i7h)
 
 [2013-2019 Math Test Results School - SWD/Ethnicity/Gender/Economic Status/ELL](https://data.cityofnewyork.us/Education/2013-2019-Math-Test-Results-School-SWD-Ethnicity-G/74ah-8ukf)
-
-![image](https://user-images.githubusercontent.com/67516321/110735759-674e7680-81f8-11eb-84c1-6bf2775e5cfe.png)
-
